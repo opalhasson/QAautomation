@@ -1,0 +1,330 @@
+[INFO ] 2021-12-24 17:14:08.831 [main] General - Contact Developers Step1 start running - connected user contact the developers of the website
+[DEBUG] 2021-12-24 17:14:08.837 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:14:08.958 [main] General - entering size
+[DEBUG] 2021-12-24 17:14:09.135 [main] General - clicking on login button
+[DEBUG] 2021-12-24 17:14:09.636 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:14:10.105 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:14:10.254 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:14:11.347 [main] General - clicking on contact button
+[DEBUG] 2021-12-24 17:14:12.029 [main] General - read user mail from exel file and enter it to the recipient-email field 
+[DEBUG] 2021-12-24 17:14:12.129 [main] General - read user name from exel file and enter it to the recipient-name field 
+[DEBUG] 2021-12-24 17:14:12.334 [main] General - read user massage from exel file and enter it to the message-text field 
+[DEBUG] 2021-12-24 17:14:12.466 [main] General - clicking on send massage
+[DEBUG] 2021-12-24 17:14:12.467 [main] General - connected user can contact the developers of the website
+[DEBUG] 2021-12-24 17:14:12.467 [main] General - Contact Developers Step1 - test passed
+[INFO ] 2021-12-24 17:14:18.652 [main] General - Contact Developers Step2 start running - offline user contact the developers of the website
+[DEBUG] 2021-12-24 17:14:18.652 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:14:18.782 [main] General - entering size
+[DEBUG] 2021-12-24 17:14:18.917 [main] General - clicking on contact button
+[DEBUG] 2021-12-24 17:14:19.417 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:14:19.913 [main] General - read user mail from exel file and enter it to the recipient-email field 
+[DEBUG] 2021-12-24 17:14:20.056 [main] General - read user name from exel file and enter it to the recipient-name field 
+[DEBUG] 2021-12-24 17:14:20.345 [main] General - read user massage from exel file and enter it to the message-text field 
+[DEBUG] 2021-12-24 17:14:20.683 [main] General - clickin on send massage
+[DEBUG] 2021-12-24 17:14:20.685 [main] General - offline user can contact the developers of the website
+[DEBUG] 2021-12-24 17:14:20.685 [main] General - Contact Developers Step2 - test failed
+[INFO ] 2021-12-24 17:14:26.499 [main] General - Contact Developers Step3 start running - connected user contact the developers of the website
+[DEBUG] 2021-12-24 17:14:26.500 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:14:26.650 [main] General - entering size
+[DEBUG] 2021-12-24 17:14:26.786 [main] General - clicking on login button
+[DEBUG] 2021-12-24 17:14:27.289 [main] General - reading from exel file - sheet 1 - row 6
+[DEBUG] 2021-12-24 17:14:27.586 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:14:27.741 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:14:29.011 [main] General - clicking on contact button
+[DEBUG] 2021-12-24 17:14:29.650 [main] General - read user mail from exel file and enter it to the recipient-email field 
+[DEBUG] 2021-12-24 17:14:29.773 [main] General - read user name from exel file and enter it to the recipient-name field 
+[DEBUG] 2021-12-24 17:14:30.282 [main] General - read user massage from exel file and enter it to the message-text field 
+[DEBUG] 2021-12-24 17:14:30.450 [main] General - clicking on send massage
+[DEBUG] 2021-12-24 17:14:30.450 [main] General - connected user can contact the developers of the website
+[DEBUG] 2021-12-24 17:14:30.451 [main] General - Contact Developers Step3 - test failed
+[INFO ] 2021-12-24 17:14:36.381 [main] General - Product Description Step1 start running - connected user see the product description
+[DEBUG] 2021-12-24 17:14:36.381 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:14:36.505 [main] General - entering size
+[DEBUG] 2021-12-24 17:14:37.184 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:14:37.644 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:14:37.801 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:14:41.095 [main] General - clicking on product
+[DEBUG] 2021-12-24 17:14:41.096 [main] General - connected user can see the product description
+[DEBUG] 2021-12-24 17:14:41.097 [main] General - Product Description Step1 - test passed
+[INFO ] 2021-12-24 17:14:47.811 [main] General - Product Description Step2 start running - offline user see the product description
+[DEBUG] 2021-12-24 17:14:47.813 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:14:47.937 [main] General - entering size
+[DEBUG] 2021-12-24 17:14:49.197 [main] General - clicking on product
+[DEBUG] 2021-12-24 17:14:49.197 [main] General - connected user can see the product description
+[DEBUG] 2021-12-24 17:14:49.198 [main] General - Product Description Step2 - test faild
+[INFO ] 2021-12-24 17:14:54.165 [main] General - SignUp Step1 start running - user signup with a new user name
+[DEBUG] 2021-12-24 17:14:54.166 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:14:54.296 [main] General - entering size
+[DEBUG] 2021-12-24 17:14:54.496 [main] General - pressing the button signin
+[DEBUG] 2021-12-24 17:14:54.998 [main] General - reading from exel file - sheet 1 - row 3
+[DEBUG] 2021-12-24 17:14:55.289 [main] General - read user name from exel file and enter it to the sign-username field 
+[DEBUG] 2021-12-24 17:14:55.429 [main] General - read user password from exel file and enter it to the sign-password field 
+[DEBUG] 2021-12-24 17:14:56.060 [main] General - clicking on signup button
+[DEBUG] 2021-12-24 17:14:56.060 [main] General - user can signup with a new user name
+[DEBUG] 2021-12-24 17:14:56.062 [main] General - SignUp Step1 - test passed
+[INFO ] 2021-12-24 17:15:03.083 [main] General - SignUp Step2 start running - user signup with an existing user name
+[DEBUG] 2021-12-24 17:15:03.083 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:15:03.224 [main] General - entering size
+[DEBUG] 2021-12-24 17:15:03.559 [main] General - pressing the button signin
+[DEBUG] 2021-12-24 17:15:04.061 [main] General - reading from exel file - sheet 1 - row 1
+[DEBUG] 2021-12-24 17:15:04.270 [main] General - read user name from exel file and enter it to the sign-username field 
+[DEBUG] 2021-12-24 17:15:04.391 [main] General - read user password from exel file and enter it to the sign-password field 
+[DEBUG] 2021-12-24 17:15:04.490 [main] General - clicking on signup button
+[DEBUG] 2021-12-24 17:15:04.491 [main] General - user can't signup with an existing user name
+[DEBUG] 2021-12-24 17:15:04.491 [main] General - SignUp Step2 - test passed
+[INFO ] 2021-12-24 17:15:09.598 [main] General - table Of Product Step1 start running - connected user see the table Of Product
+[DEBUG] 2021-12-24 17:15:09.599 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:15:09.743 [main] General - entering size
+[DEBUG] 2021-12-24 17:15:09.866 [main] General - pressing the button login
+[DEBUG] 2021-12-24 17:15:10.371 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:15:10.681 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:15:10.880 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:15:12.212 [main] General - click on laptops
+[DEBUG] 2021-12-24 17:15:12.296 [main] General - click on Monitors
+[DEBUG] 2021-12-24 17:15:12.296 [main] General - connected user can see the table Of Product
+[DEBUG] 2021-12-24 17:15:12.297 [main] General - table Of Product Step1 - test passed
+[INFO ] 2021-12-24 17:15:18.216 [main] General - table Of Product Step2 start running - offline user see the table Of Product
+[DEBUG] 2021-12-24 17:15:18.217 [main] General - opening webiste
+[DEBUG] 2021-12-24 17:15:18.361 [main] General - entering size
+[DEBUG] 2021-12-24 17:15:18.664 [main] General - click on laptops 
+[DEBUG] 2021-12-24 17:15:18.811 [main] General - click on monitors
+[DEBUG] 2021-12-24 17:15:18.812 [main] General - offline user can see the table Of Product
+[DEBUG] 2021-12-24 17:15:18.812 [main] General - table Of Product Step2 - test failed
+[INFO ] 2021-12-24 17:15:25.027 [main] EditingAndViewingCart - Add To Cart Step1 start running - connected user add product to shopping cart
+[DEBUG] 2021-12-24 17:15:25.027 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-24 17:15:25.161 [main] EditingAndViewingCart - entering size
+[DEBUG] 2021-12-24 17:15:25.792 [main] EditingAndViewingCart - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:15:26.150 [main] EditingAndViewingCart - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:15:26.300 [main] EditingAndViewingCart - read user password from exel file and enter it to the loginpassword field
+[DEBUG] 2021-12-24 17:15:30.623 [main] EditingAndViewingCart - add product to shopping cart
+[DEBUG] 2021-12-24 17:15:30.623 [main] EditingAndViewingCart - connected user can add product to shopping cart
+[DEBUG] 2021-12-24 17:15:30.624 [main] EditingAndViewingCart - Add To Cart Step1 - test passed
+[INFO ] 2021-12-24 17:15:38.079 [main] EditingAndViewingCart - Add To Cart Step2 start running - offline user add product to shopping cart
+[DEBUG] 2021-12-24 17:15:38.080 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-24 17:15:38.223 [main] EditingAndViewingCart - entering size
+[DEBUG] 2021-12-24 17:15:40.072 [main] EditingAndViewingCart - add product to shopping cart
+[DEBUG] 2021-12-24 17:15:40.074 [main] EditingAndViewingCart - offline user can add product to shopping cart
+[DEBUG] 2021-12-24 17:15:40.074 [main] EditingAndViewingCart - Add To Cart Step2 - test faild
+[INFO ] 2021-12-24 17:15:46.411 [main] EditingAndViewingCart - Delete Product Step1 start running - connected user delete product from shopping cart
+[DEBUG] 2021-12-24 17:15:46.412 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-24 17:15:46.538 [main] EditingAndViewingCart - entering size
+[DEBUG] 2021-12-24 17:15:47.147 [main] EditingAndViewingCart - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:15:47.432 [main] EditingAndViewingCart - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:15:47.596 [main] EditingAndViewingCart - read user password from exel file and enter it to the loginpassword field
+[DEBUG] 2021-12-24 17:15:51.501 [main] EditingAndViewingCart - add product to shopping cart
+[DEBUG] 2021-12-24 17:15:52.859 [main] EditingAndViewingCart - clicking on the delete button
+[DEBUG] 2021-12-24 17:15:52.859 [main] EditingAndViewingCart - connected user can delete product from shopping cart
+[DEBUG] 2021-12-24 17:15:52.859 [main] EditingAndViewingCart - Delete Product Step1 - test passed
+[INFO ] 2021-12-24 17:16:00.683 [main] EditingAndViewingCart - Delete Product Step2 start running - offline user delete product from shopping cart
+[DEBUG] 2021-12-24 17:16:00.684 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-24 17:16:00.798 [main] EditingAndViewingCart - entring size
+[DEBUG] 2021-12-24 17:16:03.774 [main] EditingAndViewingCart - add product to the cart
+[DEBUG] 2021-12-24 17:16:04.833 [main] EditingAndViewingCart - clicking on the cart button
+[INFO ] 2021-12-24 17:16:11.459 [main] EditingAndViewingCart - View Shopping Cart Step1 start running - connected user viewing empty shopping cart
+[DEBUG] 2021-12-24 17:16:11.460 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-24 17:16:11.614 [main] EditingAndViewingCart - entering size
+[DEBUG] 2021-12-24 17:16:11.734 [main] EditingAndViewingCart - pressing the button login
+[DEBUG] 2021-12-24 17:16:12.239 [main] EditingAndViewingCart - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:16:12.661 [main] EditingAndViewingCart - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:16:12.811 [main] EditingAndViewingCart - read user password from exel file and enter it to the loginpassword field
+[DEBUG] 2021-12-24 17:16:14.286 [main] EditingAndViewingCart - clicking on the button cart
+[DEBUG] 2021-12-24 17:16:14.287 [main] EditingAndViewingCart - connected user can see the empty shopping cart
+[DEBUG] 2021-12-24 17:16:14.287 [main] EditingAndViewingCart - View Shopping Cart Step1 - test passed
+[INFO ] 2021-12-24 17:16:21.633 [main] EditingAndViewingCart - View Shopping Cart Step2 start running - connected user viewing shopping cart
+[DEBUG] 2021-12-24 17:16:21.634 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-24 17:16:21.752 [main] EditingAndViewingCart - entring size
+[DEBUG] 2021-12-24 17:16:21.849 [main] EditingAndViewingCart - pressing the button login
+[DEBUG] 2021-12-24 17:16:22.352 [main] EditingAndViewingCart - reading from exel file - sheet 1 - row 5
+[DEBUG] 2021-12-24 17:16:22.592 [main] EditingAndViewingCart - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:16:22.750 [main] EditingAndViewingCart - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:16:22.885 [main] EditingAndViewingCart - clicking on login button
+[DEBUG] 2021-12-24 17:16:27.001 [main] EditingAndViewingCart - Adding Samsung galaxy s6 to the shopping cart
+[DEBUG] 2021-12-24 17:16:27.300 [main] EditingAndViewingCart - logged user can see the shopping cart
+[DEBUG] 2021-12-24 17:16:27.300 [main] EditingAndViewingCart - View Shopping Cart Step2 - test passed
+[INFO ] 2021-12-24 17:16:35.137 [main] EditingAndViewingCart - View Shopping Cart Step1 start running - offline user viewing shopping cart
+[DEBUG] 2021-12-24 17:16:35.138 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-24 17:16:35.274 [main] EditingAndViewingCart - entering size
+[DEBUG] 2021-12-24 17:16:35.908 [main] EditingAndViewingCart - clicking on the button cart
+[DEBUG] 2021-12-24 17:16:35.908 [main] EditingAndViewingCart - offline user can see the shopping cart
+[DEBUG] 2021-12-24 17:16:35.908 [main] EditingAndViewingCart - View Shopping Cart Step3 - test failed
+[INFO ] 2021-12-24 17:16:42.166 [main] portionOfSanity - Payment Step1 start running - connected user purchases
+[DEBUG] 2021-12-24 17:16:42.166 [main] portionOfSanity - opening webiste
+[DEBUG] 2021-12-24 17:16:42.321 [main] portionOfSanity - entring size
+[DEBUG] 2021-12-24 17:16:42.625 [main] portionOfSanity - pressing the button login
+[DEBUG] 2021-12-24 17:16:43.130 [main] portionOfSanity - reading from exel file - sheet 1 - row 4
+[DEBUG] 2021-12-24 17:16:43.334 [main] portionOfSanity - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:16:43.438 [main] portionOfSanity - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:16:43.561 [main] portionOfSanity - clicking on login button
+[DEBUG] 2021-12-24 17:16:47.659 [main] portionOfSanity - Adding Samsung galaxy s6 to the shopping cart
+[DEBUG] 2021-12-24 17:16:48.854 [main] portionOfSanity - read user name from exel file and enter it to the name field 
+[DEBUG] 2021-12-24 17:16:48.991 [main] portionOfSanity - read user country from exel file and enter it to the country field 
+[DEBUG] 2021-12-24 17:16:49.147 [main] portionOfSanity - read user city from exel file and enter it to the city field 
+[DEBUG] 2021-12-24 17:16:49.356 [main] portionOfSanity - read user card from exel file and enter it to the card field 
+[DEBUG] 2021-12-24 17:16:49.453 [main] portionOfSanity - read user card month from exel file and enter it to the month field 
+[DEBUG] 2021-12-24 17:16:49.578 [main] portionOfSanity - read user card year from exel file and enter it to the year field 
+[DEBUG] 2021-12-24 17:16:49.810 [main] portionOfSanity - click on purchase button
+[DEBUG] 2021-12-24 17:16:49.811 [main] portionOfSanity - connected user can purchases
+[DEBUG] 2021-12-24 17:16:49.812 [main] portionOfSanity - Payment Step1 - test passed
+[INFO ] 2021-12-24 17:16:57.147 [main] portionOfSanity - Payment Step2 start running - offline user purchases
+[DEBUG] 2021-12-24 17:16:57.148 [main] portionOfSanity - opening webiste
+[DEBUG] 2021-12-24 17:16:57.265 [main] portionOfSanity - entring size
+[INFO ] 2021-12-24 17:17:03.166 [main] portionOfSanity - Payment Step3 start running - connected user purchases with invalid card
+[DEBUG] 2021-12-24 17:17:03.166 [main] portionOfSanity - opening webiste
+[DEBUG] 2021-12-24 17:17:03.284 [main] portionOfSanity - entring size
+[DEBUG] 2021-12-24 17:17:03.374 [main] portionOfSanity - pressing the button login
+[DEBUG] 2021-12-24 17:17:03.880 [main] portionOfSanity - reading from exel file - sheet 1 - row 5
+[DEBUG] 2021-12-24 17:17:04.116 [main] portionOfSanity - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:17:04.273 [main] portionOfSanity - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:17:04.391 [main] portionOfSanity - clicking on login button
+[DEBUG] 2021-12-24 17:17:08.433 [main] portionOfSanity - Adding Samsung galaxy s6 to the shopping cart
+[DEBUG] 2021-12-24 17:17:09.526 [main] portionOfSanity - read user name from exel file and enter it to the name field 
+[DEBUG] 2021-12-24 17:17:09.679 [main] portionOfSanity - read user country from exel file and enter it to the country field 
+[DEBUG] 2021-12-24 17:17:09.827 [main] portionOfSanity - read user city from exel file and enter it to the city field 
+[DEBUG] 2021-12-24 17:17:10.013 [main] portionOfSanity - read user card from exel file and enter it to the card field 
+[DEBUG] 2021-12-24 17:17:10.108 [main] portionOfSanity - read user card month from exel file and enter it to the month field 
+[DEBUG] 2021-12-24 17:17:10.216 [main] portionOfSanity - read user card year from exel file and enter it to the year field 
+[DEBUG] 2021-12-24 17:17:10.463 [main] portionOfSanity - click on purchase button
+[DEBUG] 2021-12-24 17:17:10.463 [main] portionOfSanity - connected user can purchases with invalid card
+[DEBUG] 2021-12-24 17:17:10.463 [main] portionOfSanity - Payment Step3 - test failed
+[INFO ] 2021-12-24 17:17:17.845 [main] portionOfSanity - logOut Step1 start running - connected user logout
+[DEBUG] 2021-12-24 17:17:17.845 [main] portionOfSanity - opening webiste
+[DEBUG] 2021-12-24 17:17:17.963 [main] portionOfSanity - entring size
+[DEBUG] 2021-12-24 17:17:18.059 [main] portionOfSanity - click on Login button
+[DEBUG] 2021-12-24 17:17:18.561 [main] portionOfSanity - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:17:18.843 [main] portionOfSanity - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:17:18.963 [main] portionOfSanity - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:17:19.066 [main] portionOfSanity - login
+[DEBUG] 2021-12-24 17:17:21.561 [main] portionOfSanity - click on logout button
+[DEBUG] 2021-12-24 17:17:21.562 [main] portionOfSanity - connected user can logout
+[DEBUG] 2021-12-24 17:17:21.562 [main] portionOfSanity - logOut Step1 - test passed
+[INFO ] 2021-12-24 17:17:28.091 [main] portionOfSanity - login Step1 start running - user login with correct username and password
+[DEBUG] 2021-12-24 17:17:28.091 [main] portionOfSanity - opening webiste
+[DEBUG] 2021-12-24 17:17:28.221 [main] portionOfSanity - entring size
+[DEBUG] 2021-12-24 17:17:28.389 [main] portionOfSanity - select login button
+[DEBUG] 2021-12-24 17:17:28.894 [main] portionOfSanity - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-24 17:17:29.120 [main] portionOfSanity - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:17:29.219 [main] portionOfSanity - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:17:29.318 [main] portionOfSanity - clicking on login button
+[DEBUG] 2021-12-24 17:17:29.319 [main] portionOfSanity - user can login with currect username and password
+[DEBUG] 2021-12-24 17:17:29.319 [main] portionOfSanity - login Step1 - test passed
+[INFO ] 2021-12-24 17:17:35.923 [main] portionOfSanity - login Step2 start running - user login with incorrect password
+[DEBUG] 2021-12-24 17:17:35.924 [main] portionOfSanity - opening webiste
+[DEBUG] 2021-12-24 17:17:36.046 [main] portionOfSanity - entring size
+[DEBUG] 2021-12-24 17:17:36.365 [main] portionOfSanity - select login button
+[DEBUG] 2021-12-24 17:17:36.871 [main] portionOfSanity - reading from exel file - sheet 1 - row 1
+[DEBUG] 2021-12-24 17:17:37.072 [main] portionOfSanity - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:17:37.167 [main] portionOfSanity - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:17:37.284 [main] portionOfSanity - clicking on login button
+[DEBUG] 2021-12-24 17:17:37.284 [main] portionOfSanity - user can't login with incorrect password
+[DEBUG] 2021-12-24 17:17:37.284 [main] portionOfSanity - login Step2 - test passed
+[INFO ] 2021-12-24 17:17:42.599 [main] portionOfSanity - login Step3 start running - user login with incorrect username and password
+[DEBUG] 2021-12-24 17:17:42.599 [main] portionOfSanity - opening webiste
+[DEBUG] 2021-12-24 17:17:42.731 [main] portionOfSanity - entring size
+[DEBUG] 2021-12-24 17:17:42.860 [main] portionOfSanity - select login button
+[DEBUG] 2021-12-24 17:17:43.363 [main] portionOfSanity - reading from exel file - sheet 1 - row 2
+[DEBUG] 2021-12-24 17:17:43.626 [main] portionOfSanity - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-24 17:17:43.756 [main] portionOfSanity - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-24 17:17:43.857 [main] portionOfSanity - clicking on login button
+[DEBUG] 2021-12-24 17:17:43.857 [main] portionOfSanity - user can't login with incorrect username and password
+[DEBUG] 2021-12-24 17:17:43.857 [main] portionOfSanity - login Step3 - test passed
+[INFO ] 2021-12-26 10:28:14.746 [main] General - Contact Developers Step1 start running - connected user contact the developers of the website
+[DEBUG] 2021-12-26 10:28:14.759 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:28:14.909 [main] General - entering size
+[DEBUG] 2021-12-26 10:28:15.110 [main] General - clicking on login button
+[DEBUG] 2021-12-26 10:28:15.612 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-26 10:28:16.010 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-26 10:28:16.157 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-26 10:28:17.393 [main] General - clicking on contact button
+[DEBUG] 2021-12-26 10:28:18.175 [main] General - read user mail from exel file and enter it to the recipient-email field 
+[DEBUG] 2021-12-26 10:28:18.346 [main] General - read user name from exel file and enter it to the recipient-name field 
+[DEBUG] 2021-12-26 10:28:18.775 [main] General - read user massage from exel file and enter it to the message-text field 
+[DEBUG] 2021-12-26 10:28:18.925 [main] General - clicking on send massage
+[DEBUG] 2021-12-26 10:28:18.926 [main] General - connected user can contact the developers of the website
+[DEBUG] 2021-12-26 10:28:18.926 [main] General - Contact Developers Step1 - test passed
+[INFO ] 2021-12-26 10:28:25.446 [main] General - Contact Developers Step2 start running - offline user contact the developers of the website
+[DEBUG] 2021-12-26 10:28:25.446 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:28:25.570 [main] General - entering size
+[DEBUG] 2021-12-26 10:28:25.666 [main] General - clicking on contact button
+[DEBUG] 2021-12-26 10:28:26.173 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-26 10:28:26.516 [main] General - read user mail from exel file and enter it to the recipient-email field 
+[DEBUG] 2021-12-26 10:28:26.649 [main] General - read user name from exel file and enter it to the recipient-name field 
+[DEBUG] 2021-12-26 10:28:26.899 [main] General - read user massage from exel file and enter it to the message-text field 
+[DEBUG] 2021-12-26 10:28:27.058 [main] General - clickin on send massage
+[DEBUG] 2021-12-26 10:28:27.058 [main] General - offline user can contact the developers of the website
+[DEBUG] 2021-12-26 10:28:27.059 [main] General - Contact Developers Step2 - test failed
+[INFO ] 2021-12-26 10:28:32.956 [main] General - Contact Developers Step3 start running - connected user contact the developers of the website
+[DEBUG] 2021-12-26 10:28:32.956 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:28:33.077 [main] General - entering size
+[DEBUG] 2021-12-26 10:28:33.231 [main] General - clicking on login button
+[DEBUG] 2021-12-26 10:28:33.735 [main] General - reading from exel file - sheet 1 - row 6
+[DEBUG] 2021-12-26 10:28:34.077 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-26 10:28:34.599 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-26 10:28:36.215 [main] General - clicking on contact button
+[DEBUG] 2021-12-26 10:28:36.884 [main] General - read user mail from exel file and enter it to the recipient-email field 
+[DEBUG] 2021-12-26 10:28:37.006 [main] General - read user name from exel file and enter it to the recipient-name field 
+[DEBUG] 2021-12-26 10:28:37.257 [main] General - read user massage from exel file and enter it to the message-text field 
+[DEBUG] 2021-12-26 10:28:37.413 [main] General - clicking on send massage
+[DEBUG] 2021-12-26 10:28:37.414 [main] General - connected user can contact the developers of the website
+[DEBUG] 2021-12-26 10:28:37.414 [main] General - Contact Developers Step3 - test failed
+[INFO ] 2021-12-26 10:28:45.285 [main] General - Product Description Step1 start running - connected user see the product description
+[DEBUG] 2021-12-26 10:28:45.286 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:28:45.411 [main] General - entering size
+[DEBUG] 2021-12-26 10:28:46.021 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-26 10:28:46.277 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-26 10:28:46.397 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-26 10:28:50.070 [main] General - clicking on product
+[DEBUG] 2021-12-26 10:28:50.070 [main] General - connected user can see the product description
+[DEBUG] 2021-12-26 10:28:50.070 [main] General - Product Description Step1 - test passed
+[INFO ] 2021-12-26 10:28:56.288 [main] General - Product Description Step2 start running - offline user see the product description
+[DEBUG] 2021-12-26 10:28:56.289 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:28:56.411 [main] General - entering size
+[DEBUG] 2021-12-26 10:28:57.530 [main] General - clicking on product
+[DEBUG] 2021-12-26 10:28:57.531 [main] General - connected user can see the product description
+[DEBUG] 2021-12-26 10:28:57.531 [main] General - Product Description Step2 - test faild
+[INFO ] 2021-12-26 10:29:03.233 [main] General - SignUp Step1 start running - user signup with a new user name
+[DEBUG] 2021-12-26 10:29:03.234 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:29:03.354 [main] General - entering size
+[DEBUG] 2021-12-26 10:29:03.816 [main] General - pressing the button signin
+[DEBUG] 2021-12-26 10:29:04.322 [main] General - reading from exel file - sheet 1 - row 3
+[DEBUG] 2021-12-26 10:29:04.757 [main] General - read user name from exel file and enter it to the sign-username field 
+[DEBUG] 2021-12-26 10:29:05.144 [main] General - read user password from exel file and enter it to the sign-password field 
+[DEBUG] 2021-12-26 10:29:05.789 [main] General - clicking on signup button
+[DEBUG] 2021-12-26 10:29:05.790 [main] General - user can signup with a new user name
+[DEBUG] 2021-12-26 10:29:05.791 [main] General - SignUp Step1 - test passed
+[INFO ] 2021-12-26 10:29:12.036 [main] General - SignUp Step2 start running - user signup with an existing user name
+[DEBUG] 2021-12-26 10:29:12.036 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:29:12.151 [main] General - entering size
+[DEBUG] 2021-12-26 10:29:12.322 [main] General - pressing the button signin
+[DEBUG] 2021-12-26 10:29:12.826 [main] General - reading from exel file - sheet 1 - row 1
+[DEBUG] 2021-12-26 10:29:13.086 [main] General - read user name from exel file and enter it to the sign-username field 
+[DEBUG] 2021-12-26 10:29:13.278 [main] General - read user password from exel file and enter it to the sign-password field 
+[DEBUG] 2021-12-26 10:29:13.485 [main] General - clicking on signup button
+[DEBUG] 2021-12-26 10:29:13.486 [main] General - user can't signup with an existing user name
+[DEBUG] 2021-12-26 10:29:13.487 [main] General - SignUp Step2 - test passed
+[INFO ] 2021-12-26 10:29:19.107 [main] General - table Of Product Step1 start running - connected user see the table Of Product
+[DEBUG] 2021-12-26 10:29:19.108 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:29:19.227 [main] General - entering size
+[DEBUG] 2021-12-26 10:29:19.403 [main] General - pressing the button login
+[DEBUG] 2021-12-26 10:29:19.905 [main] General - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-26 10:29:20.291 [main] General - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-26 10:29:20.478 [main] General - read user password from exel file and enter it to the loginpassword field 
+[DEBUG] 2021-12-26 10:29:21.928 [main] General - click on laptops
+[DEBUG] 2021-12-26 10:29:22.032 [main] General - click on Monitors
+[DEBUG] 2021-12-26 10:29:22.033 [main] General - connected user can see the table Of Product
+[DEBUG] 2021-12-26 10:29:22.033 [main] General - table Of Product Step1 - test passed
+[INFO ] 2021-12-26 10:29:28.729 [main] General - table Of Product Step2 start running - offline user see the table Of Product
+[DEBUG] 2021-12-26 10:29:28.730 [main] General - opening webiste
+[DEBUG] 2021-12-26 10:29:28.856 [main] General - entering size
+[DEBUG] 2021-12-26 10:29:29.059 [main] General - click on laptops 
+[DEBUG] 2021-12-26 10:29:29.158 [main] General - click on monitors
+[DEBUG] 2021-12-26 10:29:29.158 [main] General - offline user can see the table Of Product
+[DEBUG] 2021-12-26 10:29:29.159 [main] General - table Of Product Step2 - test failed
+[INFO ] 2021-12-26 10:29:35.227 [main] EditingAndViewingCart - Add To Cart Step1 start running - connected user add product to shopping cart
+[DEBUG] 2021-12-26 10:29:35.227 [main] EditingAndViewingCart - opening webiste
+[DEBUG] 2021-12-26 10:29:35.359 [main] EditingAndViewingCart - entering size
+[DEBUG] 2021-12-26 10:29:36.010 [main] EditingAndViewingCart - reading from exel file - sheet 1 - row 0
+[DEBUG] 2021-12-26 10:29:36.438 [main] EditingAndViewingCart - read user name from exel file and enter it to the loginusername field 
+[DEBUG] 2021-12-26 10:29:36.639 [main] EditingAndViewingCart - read user password from exel file and enter it to the loginpassword field
+[DEBUG] 2021-12-26 10:29:41.375 [main] EditingAndViewingCart - add product to shopping cart
+[DEBUG] 2021-12-26 10:29:41.376 [main] EditingAndViewingCart - connected user can add product to shopping cart
+[DEBUG] 2021-12-26 10:29:41.376 [main] EditingAndViewingCart - Add To Cart Step1 - test passed
